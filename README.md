@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # hi, i'm ayushi 👋
 
@@ -33,10 +33,10 @@ CS undergrad at Thapar Institute · researcher · published author ✨
 
 ### 🚀 featured projects
 
-- 📈 **[Pulse](https://github.com/AyushiK16/pulse)** — financial news aggregator & stock tracker
-- 📅 **[EduTrack](https://github.com/AyushiK16/edutrack)** — cross-platform student planner
-- 🦕 **[T-Rex Physics Engine](https://github.com/AyushiK16/trex-physics)** — browser physics recreation of the Chrome dino game
-- 🗓️ **[MLSC Timetable](https://github.com/AyushiK16/timetable)** — live timetable platform used by students at Thapar
+- 📈 **[Pulse]** — financial news aggregator & stock tracker
+- 📅 **[EduTrack]** — cross-platform student planner
+- 🦕 **[T-Rex Physics Engine]** — browser physics recreation of the Chrome dino game
+- 🗓️ **[MLSC Timetable]** — live timetable platform used by students at Thapar
 
 ---
 
