@@ -1,19 +1,18 @@
 <div>
 
-# hi, i'm ayushi 👋
-
-CS undergrad at Thapar Institute · researcher · published author ✨
+# hi there, i'm ayushi!
+building things, breaking things, occasionally writing about it 
 
 </div>
 
 ---
 
-- 🎓 2nd year CS student at **TIET, Patiala**
-- 🔬 currently doing undergraduate research under faculty guidance
-- 📖 published fiction author on the side
+- 🎓 2nd year CS student
 - 🎨 into UI/UX and design
 - 🌱 exploring NLP & ML research
-- 💼 open to internships — remote or Delhi-NCR
+- 🔬 currently doing undergraduate research under faculty guidance
+- 📖 published fiction author on the side
+- 💼 open to cool new projects
 
 ---
 
@@ -29,16 +28,6 @@ CS undergrad at Thapar Institute · researcher · published author ✨
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0a0a0a?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=flat-square&logo=figma&logoColor=white)
 
----
-
-### 🚀 featured projects
-
-- 📈 **[Pulse]** — financial news aggregator & stock tracker
-- 📅 **[EduTrack]** — cross-platform student planner
-- 🦕 **[T-Rex Physics Engine]** — browser physics recreation of the Chrome dino game
-- 🗓️ **[MLSC Timetable]** — live timetable platform used by students at Thapar
-
----
 
 ### 📬 reach out
 
