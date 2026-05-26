@@ -1,69 +1,46 @@
 <div align="center">
 
-# Ayushi Kashyap
+# hi, i'm ayushi 👋
 
-**B.E. Computer Science · Thapar Institute of Engineering & Technology**
-
-*Building things that work — and occasionally, things that think.*
-
-[![Email](https://img.shields.io/badge/email-reach%20out-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-connect-0a0a0a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+CS undergrad at Thapar Institute · researcher · published author ✨
 
 </div>
 
 ---
 
-## About
-
-Second-year CS undergrad at TIET with a 9.23 CGPA, currently conducting research under faculty guidance alongside peers. I work across the full stack — from ML pipelines to mobile apps — and care a lot about clean code and things that actually ship.
-
-Outside of tech, I'm a published fiction author and a UI/UX enthusiast who has led design workshops.
-
----
-
-## Research & Work
-
-- 🔬 **Undergraduate Research** — conducting research under faculty guidance at TIET (ongoing)
-- 📖 **Published Author** — fiction; because storytelling and system design aren't that different
-- 🎨 **Design Lead** — led UI/UX workshops through the Economics Club at TIET
+- 🎓 2nd year CS student at **TIET, Patiala**
+- 🔬 currently doing undergraduate research under faculty guidance
+- 📖 published fiction author on the side
+- 🎨 into UI/UX and design
+- 🌱 exploring NLP & ML research
+- 💼 open to internships — remote or Delhi-NCR
 
 ---
 
-## Projects
+### 🛠️ tech stack
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Pulse**](https://github.com/AyushiK16/pulse) | Financial news aggregator & stock tracker with real-time data | React · Flask · Finnhub API |
-| [**EduTrack**](https://github.com/AyushiK16/edutrack) | Cross-platform student planner | React Native · Firebase |
-| [**MLSC Timetable Platform**](https://github.com/AyushiK16/timetable) | Live timetable platform built for MLSC @ Thapar — real users, in production | React · Node.js · Firebase |
-| [**T-Rex Physics Engine**](https://github.com/AyushiK16/trex-physics) | Browser-based physics recreation of the Chrome dino game | Matter.js · p5.js |
-| [**Helix**](https://github.com/AyushiK16/helix) | Thapar's tech fest portal | React · REST APIs |
-| [**CPU Benchmark ML**](https://github.com/AyushiK16/cpu-benchmark) | CPU performance optimization using ensemble ML models | XGBoost · Random Forest · Scikit-learn |
-
----
-
-## Tech Stack
-
-**Languages** — Python · JavaScript · SQL
-
-**Frontend** — React · React Native · Figma
-
-**Backend** — Flask · Node.js · REST APIs · Firebase
-
-**ML / Data** — Scikit-learn · XGBoost · Random Forest · Pandas · NumPy
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-0a0a0a?style=flat-square&logo=react&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0a0a0a?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-0a0a0a?style=flat-square&logo=firebase&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0a0a0a?style=flat-square&logo=scikitlearn&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-## Currently
+### 🚀 featured projects
 
-- 🔭 Conducting research under faculty guidance at TIET
-- 🌱 Exploring NLP and AI/ML research areas
-- 👀 Open to research collaborations & internship opportunities (remote · Delhi-NCR)
+- 📈 **[Pulse](https://github.com/AyushiK16/pulse)** — financial news aggregator & stock tracker
+- 📅 **[EduTrack](https://github.com/AyushiK16/edutrack)** — cross-platform student planner
+- 🦕 **[T-Rex Physics Engine](https://github.com/AyushiK16/trex-physics)** — browser physics recreation of the Chrome dino game
+- 🗓️ **[MLSC Timetable](https://github.com/AyushiK16/timetable)** — live timetable platform used by students at Thapar
 
 ---
 
-<div align="center">
+### 📬 reach out
 
-*CGPA 9.23 · TIET · Gurgaon, India*
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-kaushal/)
+[![Email](https://img.shields.io/badge/Gmail-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushikaushal16@gmail.com)
