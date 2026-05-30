@@ -10,7 +10,6 @@ building things, breaking things, occasionally writing about it
 - 🎓 2nd year CS student
 - 🎨 into UI/UX and design
 - 🌱 exploring NLP & ML research
-- 🔬 currently doing undergraduate research under faculty guidance
 - 📖 published fiction author on the side
 - 💼 open to cool new projects
 
